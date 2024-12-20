@@ -29,25 +29,13 @@ body:
         Why reproduction is required? see this article https://antfu.me/posts/why-reproductions-are-required
 
   - type: textarea
-    id: expected-behavior
-    attributes:
-      label: Expected behavior
-      description: A clear description of what you expected to happen.
-
-  - type: textarea
     id: info
     attributes:
-      label: Full `tauri info` output
-      description: 'Output of `npm run tauri info` or `cargo tauri info`'
+      label: Full System information output
+      description: 'Output of `system_profiler SPHardwareDataType`'
       render: text
     validations:
       required: true
-
-  - type: textarea
-    id: logs
-    attributes:
-      label: Stack trace
-      render: text
 
   - type: textarea
     id: context
