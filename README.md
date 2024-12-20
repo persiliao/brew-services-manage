@@ -1,6 +1,6 @@
 # brew-services-manage
 
-> An macOS menu item for managing homebrew services.
+> A macOS Menu Bar application for managing Homebrew services.
 
 This reads the [homebrew services](https://github.com/Homebrew/homebrew-services) command, showing you the status of your services and allowing them to be started, stopped and restarted.
 
