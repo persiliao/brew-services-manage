@@ -6,6 +6,14 @@ This reads the [homebrew services](https://github.com/Homebrew/homebrew-services
 
 <img src="docs/screenshot.png" alt="Screenshot" width="197">
 
+### Features
+
+- **Service Management**: Easily start, stop, and restart your services with just a click.
+- **Log Access**: Quickly open log files and error logs for troubleshooting.
+- **Auto-Start Options**: Set services to auto-start at system boot with minimal effort.
+- **Pin and Manage Services**: Pin services for easy access and manage the plist files as needed.
+- **Seamless Integration**: Automatically detects your Homebrew installation paths for user convenience.
+
 ## Install
 
 ### Manually
