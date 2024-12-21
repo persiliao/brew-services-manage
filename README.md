@@ -16,6 +16,13 @@ This reads the [homebrew services](https://github.com/Homebrew/homebrew-services
 
 ## Install
 
+### Using Homebrew Cask
+
+```shell
+brew tap persiliao/tap
+brew install --cask brew-services-manage
+```
+
 ### Manually
 
 Download from the [Releases](https://github.com/persiliao/brew-services-manage/releases) page.
