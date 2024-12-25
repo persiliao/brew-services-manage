@@ -2,11 +2,13 @@
 
 > A macOS Menu Bar application for managing Homebrew services.
 
+English | [简体中文](./README_zh.md)
+
 This reads the [homebrew services](https://github.com/Homebrew/homebrew-services) command, showing you the status of your services and allowing them to be started, stopped and restarted.
 
-<img src="docs/screenshot.png" alt="Screenshot" width="197">
+<img src="docs/screenshot.png" alt="Screenshot" width="197" />
 
-### Features
+### Key Features
 
 - **Service Management**: Easily start, stop, and restart your services with just a click.
 - **Log Access**: Quickly open log files and error logs for troubleshooting.
@@ -51,10 +53,14 @@ The operation of the service is carried out by clicking the option of the second
 - **Pin** Pin the service
 - **UnPin** Un Pin the service
 - **Plist** Open the plist file for the service
-- **Upgrade** Open the plist file for the service
+- **Upgrade** Upgrade service
 
 > If you have installed a new service using another method (e.g. terminal), you need to click **Help** -> **Restart** to reload it
 
 ## Homebrew
 
 By default looks for Homebrew at `/usr/local/bin/brew` and `/opt/Homebrew/bin/brew`.
+
+### Sponsor
+
+If this project helpful for you, feel free to [buy me a cup of coffee ☕️](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=99S3MWPTJE9Z4)
