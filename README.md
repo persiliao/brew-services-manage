@@ -46,7 +46,10 @@ The operation of the service is carried out by clicking the option of the second
 - **Stop** Stop the service and unset it to auto-start at power-on
 - **Log** Open the log file for the service, if one exists
 - **Error Log** Open the error log file for the service, if one exists
+- **Work directory** Open the service Work directory, if one exists
+- **Official website** Open the service homepage
 - **Pin** Pin the service
+- **UnPin** Un Pin the service
 - **Plist** Open the plist file for the service
 - **Upgrade** Open the plist file for the service
 
