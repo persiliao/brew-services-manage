@@ -59,7 +59,7 @@ The operation of the service is carried out by clicking the option of the second
 
 ## Homebrew
 
-By default looks for Homebrew at `/usr/local/bin/brew` and `/opt/Homebrew/bin/brew`.
+By default looks for Homebrew at `/usr/local/bin` and `/opt/Homebrew/bin`.
 
 ### Sponsor
 
